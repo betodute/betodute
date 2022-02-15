@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Beto @betodute
+- 👀 I’m interested in merging art and technology.
+- 🌱 I’m currently learning Ruby and JavaScript.
+- 💞️ I’m looking to collaborate on poetry databases.
+- 📫 How to reach me betodute@gmail.com
